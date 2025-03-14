@@ -1,0 +1,12 @@
+Flask
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+gunicorn
+pickle-mixin
+matplotlib.pyplot 
+seaborn
+joblib
+sklearn
